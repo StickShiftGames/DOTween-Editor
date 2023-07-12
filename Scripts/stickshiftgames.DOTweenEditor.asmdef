@@ -1,0 +1,16 @@
+{
+    "name": "DOTween.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4c08f5628ed17e84b970ab74bc2e63b9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

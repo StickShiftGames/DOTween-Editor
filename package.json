@@ -1,0 +1,20 @@
+{
+  "name": "com.stickshiftgames.doteditor",
+  "version": "1.0.0",
+  "displayName": "DOTween Editor Interface",
+  "description": "Allows for the creation of DOTween animations via scriptable objects. Easy interfacing with other scripts.",
+  "unity": "2020.3",
+  "dependencies": {},
+  "keywords": [
+    "DOTween",
+    "editor",
+    "utility",
+    "animation",
+    "interface"
+  ],
+  "author": {
+    "name": "Stick Shift Games",
+    "email": "stickshiftgames64@gmail.com",
+    "url": "https://www.stick-shift-games.com"
+  }
+}
